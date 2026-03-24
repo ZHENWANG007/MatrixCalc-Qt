@@ -6,6 +6,8 @@
 -  可视化交互：通过表格界面直接输入/输出矩阵数据，无需手动编写数据格式
 -  异常防护：内置维度不匹配、输入非法值等校验，弹窗提示错误信息，避免程序崩溃
 -  跨平台运行：适配 Windows/macOS/Linux 系统
+## 功能界面
+<img width="1268" height="946" alt="屏幕截图 2026-03-24 160416" src="https://github.com/user-attachments/assets/a2a3a49e-1452-47ab-b35a-1fb4d1734479" />
 
 ## 构建要求
 - CMake 3.16 及以上版本
